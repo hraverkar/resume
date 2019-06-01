@@ -13,12 +13,12 @@ I like coding, travelling , working on open source projects, reading books and s
 ## Contacts
 
 - Phone: +91- 974-3420-543
-- Email: [harshal.raverkar@gmail.com](mailto:harshal.raverkar@gmail.com)
-- Twitter: [@hraverkar](https://twitter.com/I_LoveBengaluru)
+- Email: [harshal.raverkar@gmail.com][email]
+- Twitter: [@hraverkar][twitter]
 - GitHub: [@hraverkar][github]
-- LinkedIn: [Harshal Raverkar](https://linkedin.com/in/hraverkar)
+- LinkedIn: [Harshal Raverkar][linkedin]
 - Personal site: [hraverkar.netlify.com](http://hraverkar.netlify.com)
-- My Resume: [Harshal Raverkar](https://hraverkarresume.netlify.com)
+- My Resume: [Harshal Raverkar][resume]
 
 ## Skills
 - C#, WPF, .NET Technology
@@ -37,7 +37,7 @@ I like coding, travelling , working on open source projects, reading books and s
 
 Computing Technology & Virtualization, Master of Science in Technology, _2014 — 2016_
 
-### [Rajiv Gandhi Proudyogiki Vishwavidyalaya, Indore][rgpv]
+### [Rajiv Gandhi Proudyogiki Vishwavidyalaya][rgpv]
 
 Computer Science & Engineering, Bachelor of engineering  _2010 — 2014_
 
@@ -45,5 +45,11 @@ Computer Science & Engineering, Bachelor of engineering  _2010 — 2014_
 [rgpv]: https://www.rgpv.ac.in/
 [github]: https://github.com/hraverkar
 [Manipal]: https://manipal.edu/
+[email]:mailto:harshal.raverkar@gmail.com
+[twitter]:https://twitter.com/I_LoveBengaluru
+[linkedin]:https://linkedin.com/in/hraverkar
+[resume]:https://hraverkarresume.netlify.com
+
+
 
 
