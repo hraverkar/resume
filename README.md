@@ -2,13 +2,16 @@
 
 My name is Harshal Raverkar. I am:
 
-- Software Engineer at [GeoOpsis](http://www.geoopsis.com/)
+- Software Engineer at [Sutherland Healthcare Solution](https://www.sutherlandglobal.com//)
 - living in [Bengaluru, India](https://goo.gl/maps/ee3CzcyQbRNhmBqJA)
-- living in [Khandwa, India](https://goo.gl/maps/bWznjCquHQ6NafsWA)
+- From [Khandwa, India](https://goo.gl/maps/bWznjCquHQ6NafsWA)
 - studying at [Manipal University, Manipal](http://manipal.edu/)
 - active open source participator.
 
 I like coding, travelling , working on open source projects, reading books and soo on....
+
+## Experience 
+- Software Engineer at [GeoOpsis](http://www.geoopsis.com/)
 
 ## Contacts
 
@@ -22,8 +25,8 @@ I like coding, travelling , working on open source projects, reading books and s
 
 ## Skills
 - C#, WPF, .NET Technology
-- JavaScript (ES2015+), Node.js
-- Angular
+- JavaScript (ES2015+), NodeJS
+- Angular, 
 - Luciad Developer
 - GIS Package - Cesium, Open Layer, Google Maps API
 - Basic concepts of Object oriented programming
@@ -46,7 +49,7 @@ Computer Science & Engineering, Bachelor of engineering  _2010 — 2014_
 [github]: https://github.com/hraverkar
 [Manipal]: https://manipal.edu/
 [email]:mailto:harshal.raverkar@gmail.com
-[twitter]:https://twitter.com/I_LoveBengaluru
+[twitter]:https://twitter.com/hraverkar
 [linkedin]:https://linkedin.com/in/hraverkar
 [resume]:https://hraverkarresume.netlify.com
 
