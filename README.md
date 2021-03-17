@@ -2,7 +2,7 @@
 
 My name is Harshal Raverkar. I am:
 
-- Software Engineer at [Sutherland Healthcare Solution](https://www.sutherlandglobal.com//)
+- Software Engineer at [Deloitte USI](https://www.deloitte.com//)
 - living in [Bengaluru, India](https://goo.gl/maps/ee3CzcyQbRNhmBqJA)
 - From [Khandwa, India](https://goo.gl/maps/bWznjCquHQ6NafsWA)
 - studying at [Manipal University, Manipal](http://manipal.edu/)
