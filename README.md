@@ -2,7 +2,7 @@
 
 My name is Harshal Raverkar. I am:
 
-- Associate Vice President-Information Technology at [Seiss Re](https://www.swissre.com//)
+- Associate Vice President-Information Technology at [Seiss Re](https://www.swissre.com/)
 - living in [Bengaluru, India](https://goo.gl/maps/ee3CzcyQbRNhmBqJA)
 - From [Khandwa, India](https://goo.gl/maps/bWznjCquHQ6NafsWA)
 - studying at [Manipal University, Manipal](http://manipal.edu/)
@@ -26,14 +26,14 @@ I like coding, travelling , working on open source projects, reading books and s
 - My Resume: [Harshal Raverkar][resume]
 
 ## Skills
-- C#, WPF, .NET Technology
+- C#, .NET Technology, Dotnet Web API, Docker, Kubernate
 - JavaScript (ES2015+), NodeJS
 - Angular, 
 - Luciad Developer
 - GIS Package - Cesium, Open Layer, Google Maps API
 - Basic concepts of Object oriented programming
 - Unix-based, Linux, Git
-- Basic knowledge in Core Java
+- Basic knowledge in Core Java 
 - Database knowledge PostgreSQL, MSSQL
 
 ## Education
