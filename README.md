@@ -2,7 +2,7 @@
 
 My name is Harshal Raverkar. I am:
 
-- Software Engineer at [Deloitte USI](https://www.deloitte.com//)
+- Associate Vice President-Information Technology at [Seiss Re](https://www.swissre.com//)
 - living in [Bengaluru, India](https://goo.gl/maps/ee3CzcyQbRNhmBqJA)
 - From [Khandwa, India](https://goo.gl/maps/bWznjCquHQ6NafsWA)
 - studying at [Manipal University, Manipal](http://manipal.edu/)
@@ -11,6 +11,7 @@ My name is Harshal Raverkar. I am:
 I like coding, travelling , working on open source projects, reading books and soo on....
 
 ## Experience 
+- Lead Software Engineer at [Deloitte India Tax Service Pvt. Ltd.](https://www.deloitte.com/)
 - App Developer at [Sutherland Healthcare](http://www.sutherland.com/)
 - Software Engineer at [GeoOpsis](http://www.geoopsis.com/)
 
