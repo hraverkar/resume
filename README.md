@@ -2,13 +2,12 @@
 
 My name is Harshal Raverkar. I am:
 
-- Associate Vice President-Information Technology at [Seiss Re](https://www.swissre.com/)
-- living in [Bengaluru, India](https://goo.gl/maps/ee3CzcyQbRNhmBqJA)
-- From [Khandwa, India](https://goo.gl/maps/bWznjCquHQ6NafsWA)
-- studying at [Manipal University, Manipal](http://manipal.edu/)
-- active open source participator.
+- Associate Vice President of Information Technology at [Seiss Re](https://www.swissre.com/)
+- Living in [Hyderabad, India](https://goo.gl/maps/ee3CzcyQbRNhmBqJA)
+- Studied at [Manipal University, Manipal](http://manipal.edu/)
+- Active participant in open-source projects.
 
-I like coding, travelling , working on open source projects, reading books and soo on....
+I enjoy coding, traveling, working on open-source projects, reading books, and so on.
 
 ## Experience 
 - Lead Software Engineer at [Deloitte India Tax Service Pvt. Ltd.](https://www.deloitte.com/)
